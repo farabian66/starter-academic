@@ -23,36 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
   date_start: "2020-10-01"
   description: ""
-  organization: i-ETC conference
+  organization: 'i-ETC conference'
   organization_url: 
-  title: Student engineering paper award
+  title: 'Student engineering paper award'
   url: ""
 - certificate_url: 
   date_end: ""
   date_start: "2020-06-01"
   description: 
-  organization: ECEDHA annual conference
+  organization: 'ECEDHA annual conference'
   organization_url: 
-  title: iREDEFINE professional development award
-  url: 
+  title: 'iREDEFINE professional development award'
+  url: ""
 - certificate_url: 
   date_end: ""
   date_start: "2019-11-01"
   description: ""
-  organization: International Telemetry Conference
+  organization: 'International Telemetry Conference'
   organization_url: 
-  title: Myron Hiram Nichols award
-  url: ""
-  - certificate_url: 
-  date_end: ""
-  date_start: "2018-11-01"
-  description: ""
-  organization: International Telemetry Conference
-  organization_url: 
-  title: Best graduate student paper award
+  title: 'Myron Hiram Nichols award'
   url: ""
 ---
