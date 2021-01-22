@@ -29,13 +29,13 @@ image:
   preview_only: false
 
 authors:
-- admin
+- Holly Cluff
 
 tags:
 - Academic
 
-categories:
-- Demo
+#categories:
+#- Demo
 ---
 
 ## Overview
