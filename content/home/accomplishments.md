@@ -45,7 +45,7 @@ item:
   description: ""
   organization: 'International Telemetry Conference'
   organization_url: 
-  title: 'Myron Hiram Nichols Award'
+  title: 'Myron Hiram Nichols award'
   url: ""
 
 ---
