@@ -15,22 +15,22 @@
 
 [[main]]
   name = "Experience"
-  url = "#projects"
+  url = "#experience"
   weight = 30
 
 [[main]]
   name = "Honors and Awards"
-  url = "#talks"
+  url = "#accomplishments"
   weight = 40
 
 [[main]]
   name = "Highlights"
-  url = "#featured"
+  url = "#pages"
   weight = 50
 
 [[main]]
   name = "Publications"
-  url = "#pages"
+  url = ""
   weight = 60
   
 [[main]]
