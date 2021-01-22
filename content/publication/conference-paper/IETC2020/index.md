@@ -1,5 +1,5 @@
 ---
-title: "Polarization diversity and equalization of frequency selective channels in telemetry environment for 16APSK"
+title: "Who's On First In 5G Mobile Networks: Equalizers or Polarization Diversity Combiners?"
 authors:
 - admin
 - Michael Rice
