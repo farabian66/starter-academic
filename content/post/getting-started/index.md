@@ -3,7 +3,7 @@ title: PhD Student Takes Home Award Third Year in a Row
 subtitle: You might recognize her name. In 2018, she won the First Place Graduate Student Award at the International Telemetry Conference (ITC), and last year she won the Myron Hiram Nichols Telemetry Spectrum Award at the ITC. 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: You might recognize her name. In 2018, she won the First Place Graduate Student Award at the International Telemetry Conference (ITC), and last year she won the Myron Hiram Nichols Telemetry Spectrum Award at the ITC. This month, Farah Arabian - a PhD student studying under...
 
 # Link this post with a project
 projects: []
