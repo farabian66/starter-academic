@@ -1,5 +1,5 @@
 ---
-title: PhD Student Wins Second Telemetry Award 
+title: Ph.D. Student Wins Second Telemetry Award 
 subtitle: For her second year, Farah Arabian, a PhD student in the Electrical Engineering department, won an award for the paper she submitted in the International Telemetry Conference (ITC).
 
 # Summary for listings and search engines
