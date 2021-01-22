@@ -7,11 +7,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2020-01-15T00:00:00Z"
+date: "2020-01-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-15T00:00:00Z"
+publishDate: "2020-01-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: "International Conference on Computing, Networking and Communications (ICNC)"
 publication_short: ""
 
-The outputs of a cross-polarized antenna can produce a pair of different parallel frequency-selective channels. The optimum combining strategy is derived from maximum likelihood principles and used to define an equivalent discrete-time model. The simulated post-equalizer BER results show that optimum combining produces the best results, selection diversity can provide reasonably good results, and that both optimum combining and selection diversity can be superior to linear equalizer operating on the channel obtained by combining the antenna outputs before applying a channel matched filter.
+abstract: The outputs of a cross-polarized antenna can produce a pair of different parallel frequency-selective channels. The optimum combining strategy is derived from maximum likelihood principles and used to define an equivalent discrete-time model. The simulated post-equalizer BER results show that optimum combining produces the best results, selection diversity can provide reasonably good results, and that both optimum combining and selection diversity can be superior to linear equalizer operating on the channel obtained by combining the antenna outputs before applying a channel matched filter.
 # Summary. An optional shortened abstract.
 summary:
 
