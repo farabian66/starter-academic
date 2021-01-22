@@ -45,6 +45,14 @@ item:
   description: ""
   organization: 'International Telemetry Conference'
   organization_url: 
-  title: 'Myron Hiram Nichols award'
+  title: 'Myron Hiram Nichols Award'
+  url: ""
+  - certificate_url: 
+  date_end: ""
+  date_start: "2018-11-01"
+  description: ""
+  organization: 'International Telemetry Conference'
+  organization_url: 
+  title: 'Best graduate student paper award Award'
   url: ""
 ---
