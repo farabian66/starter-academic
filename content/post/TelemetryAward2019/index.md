@@ -62,4 +62,4 @@ Farah decided to take on this new paper to stretch herself and contribute to the
 
 Farah looks forward to improving the quality of aircraft communication with the ground base station through these algorithms and plans to continue her research in the future through another application, fifth generation of mobile networks. 
 - 👉 [**Click Here**](https://ece.byu.edu/content/phd-student-wins-second-telemetry-award)
-- 👉 [**Click Here**](http://www.telemetryspectrum.org/doku.php?id=awards)
+- 👉 [**International Consortium for Telemetry Spectrum**](http://www.telemetryspectrum.org/doku.php?id=awards)
