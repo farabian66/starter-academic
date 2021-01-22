@@ -6,12 +6,12 @@ authors:
 - Chad Josephson
 - Michael Rice
 - Erik Perrins
-author_notes:
-- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
-- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
-- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
-- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
-- "Electrical Engineering and Computer Science Department, University of Kansas, Lawrence, Kansas, USA"
+#author_notes:
+#- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+#- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+#- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+#- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+#- "Electrical Engineering and Computer Science Department, University of Kansas, Lawrence, Kansas, USA"
 date: "2018-08-01T00:00:00Z"
 doi: ""
 
@@ -28,7 +28,7 @@ publication_types: ["1"]
 publication: "*International Symposium on Wireless Communication Systems(ISWCS)*(1)"
 publication_short: ""
 
-The symmetric information rate is used to define the relationship between the APSK constellation parameters, the code rate, and the average and peak Eb/N0 . Minimizing the average Eb/N0 reproduces the DVB-S2 constellation parameters for 16- and 32-APSK. Minimizing the peak Eb/N0 produces DVB-S2 constellation parameters for 16- and 32-APSK that minimize the peak-to-average power ratio. The peak-to-average power ratio gains are less than 1 dB, but when used on coded systems with very steep decoded bit error probability vs. Eb/N0 curves, the gains can be significant.
+abstract: The symmetric information rate is used to define the relationship between the APSK constellation parameters, the code rate, and the average and peak Eb/N0 . Minimizing the average Eb/N0 reproduces the DVB-S2 constellation parameters for 16- and 32-APSK. Minimizing the peak Eb/N0 produces DVB-S2 constellation parameters for 16- and 32-APSK that minimize the peak-to-average power ratio. The peak-to-average power ratio gains are less than 1 dB, but when used on coded systems with very steep decoded bit error probability vs. Eb/N0 curves, the gains can be significant.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
