@@ -2,7 +2,11 @@
 title: "Performance Evaluation of Wireless data traffic in Mm wave massive MIMO communication"
 authors:
 - admin
-- Michael Rice
+- Ahmed Thair Al-Heety
+- Mohammad Tariqul Islam
+- Ahmed Hashim Rashid
+- Hasanain N. Abd Ali
+- Ali Mohammed Fadil
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
