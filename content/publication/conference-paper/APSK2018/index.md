@@ -1,11 +1,17 @@
 ---
-title: "An example journal article"
+title: "On Peak-to-Average Power Ratio Optimization for Coded APSK"
 authors:
 - admin
-- Robert Ford
+- Willie Harrison
+- Chad Josephson
+- Michael Rice
+- Erik Perrins
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+- "Department of Electrical and Computer Engineering, Brigham Young University, Provo, Utah, USA"
+- "Electrical Engineering and Computer Science Department, University of Kansas, Lawrence, Kansas, USA"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -16,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*15th International Symposium on Wireless Communication Systems (ISWCS)*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The symmetric information rate is used to define the relationship between the APSK constellation parameters, the code rate, and the average and peak E b /N 0 . Minimizing the average E b /N 0 reproduces the DVB-S2 constellation parameters for 16- and 32-APSK. Minimizing the peak E b /N 0 produces DVB-S2 constellation parameters for 16- and 32-APSK that minimize the peak-to-average power ratio. The peak-to-average power ratio gains are less than 1 dB, but when used on coded systems with very steep decoded bit error probability vs. E b /N 0 curves, the gains can be significant.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8491087
 url_code: ''
 url_dataset: ''
 url_poster: ''
