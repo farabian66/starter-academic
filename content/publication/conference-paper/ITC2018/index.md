@@ -34,7 +34,7 @@ summary:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "331985353_on_the_performance_of_filter_based_equalizers_for_16apsk_in_aeronautical_telemetry_environment/links/5c996efc92851cf0ae981246/on-the-performance-of-filter-based-equalizers-for-16apsk-in-aeronautical-telemetry-environment.pdf"
+url_pdf: "https://www.researchgate.net/profile/Farah_Arabian/publication/331985353_on_the_performance_of_filter_based_equalizers_for_16apsk_in_aeronautical_telemetry_environment/links/5c996efc92851cf0ae981246/on-the-performance-of-filter-based-equalizers-for-16apsk-in-aeronautical-telemetry-environment.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
