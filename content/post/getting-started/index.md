@@ -40,63 +40,20 @@ tags:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-## Get Started
+You might recognize her name. In 2018, she won the First Place Graduate Student Award at the International Telemetry Conference (ITC), and last year she won the Myron Hiram Nichols Telemetry Spectrum Award at the ITC. This month, Farah Arabian - a PhD student studying under Dr. Rice - received another award: third place in the engineering track at the Intermountain Engineering, Technology, and Computing Conference (i-ETC) for her paper “Who’s on First in 5G Mobile Networks: Equalizers or Polarization Diversity Combiners?”. She compared two mobile phone architectures to see which outperformed the other, specifically observing how the order of combining and equalization in signal processing affected the outcomes.
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+Of all three papers, Farah said she loved working on the most recent one the most. Her former awards nod to her aptitude in telemetry applications, but her passion lies in mobile systems.
 
-## Crowd-funded open-source software
+“It makes people connected. That’s what I love,” she says of the field. She knows that poor coverage in some areas of the world prevent people from speaking to their loved ones, and she can change that, saying “we want to have a better quality of the signal in general. That’s the reason why we decided to compare two receiver architectures - to see how the performance is.”
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Before she came to BYU, she worked for both Nokia and Huawei in her home of Tehran, Iran. At She focused on finding ways to cover different areas with high quality signals by optimizing key performance indicators in mobile networks. She explains that it compares to what she does now, but in different levels of theory: at Nokia, she worked on the fourth generation of mobile systems, and now she works on the fifth. She wants to improve her knowledge so she can return to work with a high level of understanding.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+But it hasn’t been easy. We have established that Farah is an intelligent and capable engineer, but if you were to ask her if getting a PhD is hard, she will not hesitate to say yes. It is hard. “That’s really important, because we say that it’s hard while we are doing that...But this is what I love, and this is what I want to do,” she says. In other words, there’s merit in acknowledging that you are doing something hard but doing it anyway. To those who claim a PhD is easy, she says “I don’t believe that. I believe all people are smart. It’s just having different attitudes and working hard. That’s the difference. That’s the only thing that will make a difference.”
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+As one of few women in the graduate program, she also has a few words for the women of engineering: “If you know what you want, just go for it. Fight for it. And don’t let anybody make you down.” And to those who think they aren’t as smart as their male counterparts? “Hey, this is not the case...All of you are the same. It’s just a matter of how much you are trying. If you try as hard as the other guy, you will get it.”
 
-## Ecosystem
+As for herself, Farah intends to get her PhD and return to ideally a dynamic environment or big city. “I like all that chaos,” she explains. In the meantime, she will keep researching, presenting, and trying to be a voice for other women, international students, and others in STEM fields who also feel isolated or different from their peers.
 
-* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+- 👉 [**Click Here**](https://ece.byu.edu/phd-student-takes-home-award-third-year-in-a-row)
