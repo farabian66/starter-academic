@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Certificates & Honors"
+title = "Honors and Awards"
 subtitle = ""
 
 # Date format
@@ -19,54 +19,54 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "i3center"
+  organization = "i-ETC conference"
   organization_url = ""
-  title = "CompTIA A+"
+  title = "Student engineering paper award"
   url = ""
   certificate_url = ""
-  date_start = "2012-03-01"
+  date_start = "2020-10-01"
   date_end = ""
-  description = "CompTIA A+ certification represents entry-level competency as a computer technician and is a vendor neutral certification that covers various technologies and operating systems"
+  description = ""
 
 [[item]]
-  organization = "i3center"
+  organization = "ECEDHA annual conference"
   organization_url = ""
-  title = "CompTIA Network+"
+  title = "iREDEFINE professional development award"
   url = ""
   certificate_url = ""
-  date_start = "2012-03-01"
+  date_start = "2020-06-01"
   date_end = ""
-  description = "CompTIA Network+ is the entry-level certification is used to measure skill as a network technician."
+  description = ""
 
 [[item]]
-  organization = "i3center"
+  organization = "International Telemetry Conference"
   organization_url = ""
-  title = "CCNA (Cisco Certified Network Associate)"
+  title = "Myron Hiram Nichols award"
   url = ""
   certificate_url = ""
-  date_start = "2012-08-01"
+  date_start = "2019-11-01"
   date_end = ""
-  description = "CCNA certification is an associate-level Cisco Career certification. "
+  description = ""
 
 [[item]]
-  organization = "i3center"
+  organization = "International Telemetry Conference"
   organization_url = ""
-  title = "MCITP (Microsoft Certified IT Professional)"
+  title = "Best graduate student paper award"
   url = ""
   certificate_url = ""
-  date_start = "2012-08-01"
+  date_start = "2018-11-01"
   date_end = ""
-  description = "MCITP is a credential that proves that an individual has a complete set of skills required to perform a particular IT job role, such as enterprise or virtualization administrator. "
+  description = ""
   
   [[item]]
-  organization = "HUAWEI"
+  organization = "Engineering honor society  "
   organization_url = ""
-  title = "HCNA (Huawei Certified Network Associate)"
+  title = "Eta Kappa "
   url = ""
   certificate_url = ""
   date_start = "2017-04-01"
   date_end = ""
-  description = "HCNA certification validates the knowledge and skills required for basic configuration and maintenance of small to medium-sized networks. "
+  description = ""
   
   [[item]]
   organization = "Engineering Honors Society "
@@ -76,5 +76,25 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "This Society is the nation's oldest, largest, and most selective all-discipline honor society. "
+  description = ""
+  
+  [[item]]
+  organization = "Nokia Company"
+  organization_url = ""
+  title = "Outstanding Engineer"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-04-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "HUAWEI Company"
+  organization_url = ""
+  title = "Outstanding Engineer"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-04-01"
+  date_end = ""
+  description = ""
 +++
