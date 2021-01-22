@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Skills"
-  url = "#featurette"
+  url = "#skills"
   weight = 20
 
 [[main]]
@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Highlights"
-  url = "#pages"
+  url = "#highlights"
   weight = 50
 
 [[main]]
   name = "Publications"
-  url = ""
+  url = "#publications"
   weight = 60
   
 [[main]]
