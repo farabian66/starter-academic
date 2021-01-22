@@ -1,6 +1,6 @@
 ---
 title: Farah Arabian Awarded Best Student Paper
-subtitle: Farah Arabian, an Electrical Engineering PhD student studying Telecommunications, was awarded Best Student Paper for her research paper submission at the International Telemetry Conference in Phoenix on November 7, 2018. 
+subtitle: Farah Arabian, an Electrical Engineering Ph.D. student studying Telecommunications, was awarded Best Student Paper for her research paper submission at the International Telemetry Conference in Phoenix on November 7, 2018. 
 
 # Summary for listings and search engines
 summary: Farah Arabian, an Electrical Engineering PhD student studying Telecommunications, was awarded Best Student Paper for her research paper submission at the International Telemetry Conference in Phoenix on November 7, 2018. 
