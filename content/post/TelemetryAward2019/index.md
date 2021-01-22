@@ -9,10 +9,10 @@ summary: For her second year, Farah Arabian, a PhD student in the Electrical Eng
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-12-19T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-12-19T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
