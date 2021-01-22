@@ -57,27 +57,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = ""
   description = ""
-  
-  [[item]]
-  organization = "Engineering honor society  "
-  organization_url = ""
-  title = "Eta Kappa "
-  url = ""
-  certificate_url = ""
-  date_start = "2017-04-01"
-  date_end = ""
-  description = ""
-  
-  [[item]]
-  organization = "Engineering Honors Society "
-  organization_url = ""
-  title = "Phi Kappa Phi "
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-01"
-  date_end = ""
-  description = ""
-  
+
   [[item]]
   organization = "Nokia Company"
   organization_url = ""
