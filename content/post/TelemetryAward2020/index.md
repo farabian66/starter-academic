@@ -9,7 +9,7 @@ summary: You might recognize her name. In 2018, she won the First Place Graduate
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-12-20T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
