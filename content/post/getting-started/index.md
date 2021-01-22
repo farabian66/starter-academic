@@ -1,15 +1,15 @@
 ---
-title: Farah
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: PhD Student Takes Home Award Third Year in a Row 
+subtitle: You might recognize her name. In 2018, she won the First Place Graduate Student Award at the International Telemetry Conference (ITC), and last year she won the Myron Hiram Nichols Telemetry Spectrum Award at the ITC.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Farah Arabian - a PhD student studying under Dr. Rice - received another award: third place in the engineering track at the Intermountain Engineering, Technology, and Computing Conference (i-ETC) for her paper “Who’s on First in 5G Mobile Networks: Equalizers or Polarization Diversity Combiners?”.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-10-12T03:52:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
