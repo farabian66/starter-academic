@@ -1,5 +1,5 @@
 ---
-title: PhD Student Takes Home Award Third Year in a Row 
+title: Ph.D. Student Takes Home Award Third Year in a Row 
 subtitle: You might recognize her name. In 2018, she won the First Place Graduate Student Award at the International Telemetry Conference (ITC), and last year she won the Myron Hiram Nichols Telemetry Spectrum Award at the ITC. 
 
 # Summary for listings and search engines
