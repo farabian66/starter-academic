@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+- Holly Cluff
 
 
 tags:
@@ -61,3 +61,5 @@ Farah decided to take on this new paper to stretch herself and contribute to the
 “[I became interested in this area of research] because it’s a challenge. Also, you want a signal to have the best quality because that will increase the performance of the whole system—the system, the aircraft, the receiver, the environment the aircraft is flying through, everything,” she said.
 
 Farah looks forward to improving the quality of aircraft communication with the ground base station through these algorithms and plans to continue her research in the future through another application, fifth generation of mobile networks. 
+- 👉 [**Click Here**](https://ece.byu.edu/content/phd-student-wins-second-telemetry-award)
+- 👉 [**Click Here**](http://www.telemetryspectrum.org/doku.php?id=awards)
