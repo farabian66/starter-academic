@@ -39,8 +39,7 @@ date_format = "Jan 2006"
   * Network troubleshooting
   * UMTS/LTE Networks evaluation and Analysis
   * KPI (Key Performance Indicator) Optimization
-  * Strong contribution in Nokia NPO (Network Performance Optimization) project-responsible of region one, which is included of  
-ve big provinces of Iran, contributed to achieve more than 10 percent coverage and quality improvement in LTE network
+  * Strong contribution in Nokia NPO (Network Performance Optimization) project-responsible of region one, which is included of five big provinces of Iran, contributed to achieve more than 10 percent coverage and quality improvement in LTE network
   """
 
 [[experience]]
