@@ -2,8 +2,8 @@
 title: "On the Ungerboeck and Forney Observation Models for Spatial Combining And Their Application to 5G Millimeter-Wave Bands"
 authors:
 - admin
-- Michael Rice
 - Gregory P. Nordin
+- Michael Rice
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
