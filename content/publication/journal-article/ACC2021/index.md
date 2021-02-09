@@ -1,11 +1,9 @@
 ---
-title: "Performance Evaluation of Wireless data traffic in Mm wave massive MIMO communication"
+title: "On the Ungerboeck and Forney Observation Models for Spatial Combining And Their Application to 5G Millimeter-Wave Bands"
 authors:
-- Ahmed Thair Al-Heety
-- Mohammad Tariqul Islam
-- Ahmed Hashim Rashid
-- Hasanain N. Abd Ali
-- Ali Mohammed Fadil
+- Farah Arabian 
+- Micheal Rice
+- Gregory P. Nordin
 - admin
 #author_notes:
 #- "Equal contribution"
@@ -23,10 +21,10 @@ publishDate: "2020-12-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Indonesian Journal of Electrical Engineering and Computer Science"
+publication: "IEEE Access"
 publication_short: ""
 
-abstract: Due to the evaluation of mobile devices and applications in the current decade, a new direction for wireless networks has emerged. The general consensus about the future 5G network is that the following should be taken into account; the purpose of thousand-fold system capacity, hundredfold energy efficiency, lower latency, and smooth connectivity. The massive multiple-input multipleoutput (MIMO), as well as the Millimeter wave (mm Wave) have been considered in the ultra-dense cellular network (UDN), because they are viewed as the emergent solution for the next generations of communication. This article focuses on evaluating and discussing the performance of mm Wave massive MIMO for ultra-dense network, which is one of the major technologies for the 5G wireless network. More so, the energy efficiencies of two kinds of architectures for wireless backhaul networks were investigated and compared in this article. The results of the simulation revealed some points that should be considered during the deployment of small cells in the two architectures UDN with backhaul network capacity and backhaul energy efficiency, that the changing the frequency bands in Distribution approach gives the same energy efficiency reached to 600 Mb/s at 15 nodes while the Conventional approach results reached less than 100 Mb/s at the same number of nodes.
+abstract: Equivalent discrete-time models for a variety of spatial combining techniques operating in a frequency-selective multipath fading channel are derived. The equivalent discrete-time models are used to perform computer simulations of the post-equalizer bit error rate over a frequency-selective multipath channel whose derivation preserved polarization state information. Two sets of computer simulations were performed. In the first set, the performance of co-located cross-polarized antenna elements was investigated. The results showed that maximum likelihood combining maximizes polarization diversity, but that maximum ratio combining and selection combining were very competitive in the case where the cross-polarized antennas produce one strong channel and a relatively weak channel. Elliptical combining, using a 90° hybrid coupler, produced the worst results. The second set of simulations used a combination of spatial and cross-polarized antenna elements, for a total of eight antenna elements. The simulation results showed that maximum likelihood combining was best, followed by maximum ratio combining, equal gain combining, and selection combining. Again, elliptical combining was the worst, leading to the conclusion that other combining techniques are preferred in frequency-selective fading environments.
 # Summary. An optional shortened abstract.
 summary:
 
@@ -37,7 +35,7 @@ summary:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.researchgate.net/profile/Ahmed_Alheety/publication/344026612_Performance_evaluation_of_wireless_data_traffic_in_Mm_wave_massive_MIMO_communication/links/5f4e7749299bf13a3194888b/Performance-evaluation-of-wireless-data-traffic-in-Mm-wave-massive-MIMO-communication.pdf"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9335958"
 url_code: ''
 url_dataset: ''
 url_poster: ''
