@@ -20,7 +20,7 @@ bio: My research interests include 5G cellular networks, Digital communication t
 interests:
 - 5G mobile networks
 - Digital communications theory
-- Signal processing
+- Digital signal processing
 
 # Education to show in About widget
 education:
@@ -70,4 +70,4 @@ email: "farah.arabian@gmail.com"
 highlight_name: false
 ---
 
-Farah Arabian is working as a graduate research/teacher assistant at Brigham Young University (BYU), while she is a full-time Ph.D. student there since Fall 2017. She has a master's degree in telecommunications engineering (ICT) from the top second university of Iran (Tehran Polytechnic), and 4 years of experience in UMTS/LTE RF planning and optimization engineering in Huawei and Nokia Companies. She is a member of the IEEE Communication Society (ComSoc), and also a memeber of engineering honors societies Eta Kappa Nu, and Phi Kappa Phi.  
+Farah Arabian is working as a graduate research/teacher assistant at Brigham Young University (BYU), while she is a full-time Ph.D. student at electrical and computer enginnering department, since Fall 2017. She has a master's degree in telecommunications engineering (ICT) from the top second university of Iran (Tehran Polytechnic), and 4 years experience as UMTS/LTE RF planning and optimization engineer in Huawei and Nokia Companies. She is a member of the IEEE Communication Society (ComSoc), and also a memeber of engineering honors societies Eta Kappa Nu, and Phi Kappa Phi.  
