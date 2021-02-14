@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "UTAH"
   date_start = "2017-01-01"
   date_end = ""
-  description = "RA/TA with the emphasize on digital communications thoery and singal processing in mobile systems and aeronautical telemetry applicatios."
+  description = "RA/TA with the emphasis on digital communications thoery and singal processing in mobile systems and aeronautical telemetry applicatios."
 
 
 [[experience]]
